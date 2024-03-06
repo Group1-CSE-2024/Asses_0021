@@ -1,0 +1,23 @@
+commit 9895dddc9d0112876f3f28cf92660a4e57c3116d
+Author: amann7168 <amann.rkee@gmail.com>
+Date:   Wed Mar 6 11:42:51 2024 +0530
+
+    Piped entire history into sub_1
+
+commit 1bfb124347e1d771ced6718e04494109a5a88ae5
+Author: amann7168 <amann.rkee@gmail.com>
+Date:   Wed Mar 6 11:12:41 2024 +0530
+
+    Third commit done.....changes made in c file only
+
+commit 28e0782e12cd08be5c3548a68373e59fb61dcd59
+Author: amann7168 <amann.rkee@gmail.com>
+Date:   Wed Mar 6 11:11:08 2024 +0530
+
+    Second commit done on html file.....added comment
+
+commit ebaa152798cbd8731abe630a4c98c84d6918a200
+Author: amann7168 <amann.rkee@gmail.com>
+Date:   Wed Mar 6 11:06:57 2024 +0530
+
+    First commit done, added content to all 3 files
